@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="16dp"
-        android:background="@drawable/bg_red_rounded"
+        android:background="@drawable/bg_green_rounded"
         android:fontFamily="@font/montserrat_bold"
         android:padding="10dp"
         android:textColor="@android:color/white"
