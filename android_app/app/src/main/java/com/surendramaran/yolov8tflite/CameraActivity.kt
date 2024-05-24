@@ -171,4 +171,11 @@ class CameraActivity : AppCompatActivity(), Detector.DetectorListener {
             }
         }
     }
+
+    override fun onBackPressed() {
+        super.onBackPressed()
+        detector.clear()
+        cameraExecutor.shutdown()
+        finish()
+    }
 }
