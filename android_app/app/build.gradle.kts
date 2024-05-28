@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.surendramaran.yolov8tflite"
+    namespace = "com.warzone.yolov8tflite"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.surendramaran.yolov8tflite"
+        applicationId = "com.warzone.yolov8tflite"
         minSdk = 21
         targetSdk = 34
         versionCode = 1

@@ -1,9 +1,9 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.surendramaran.yolov8tflite.databinding.ActivityMainBinding
+import com.warzone.yolov8tflite.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

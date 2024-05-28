@@ -1,4 +1,4 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

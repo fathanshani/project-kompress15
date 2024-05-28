@@ -1,4 +1,4 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 import android.content.Context
 import android.graphics.Bitmap

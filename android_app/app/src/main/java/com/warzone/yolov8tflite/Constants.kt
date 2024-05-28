@@ -1,4 +1,4 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 object Constants {
     const val MODEL_PATH = "best_float32.tflite"

@@ -1,4 +1,4 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 import org.junit.Test
 

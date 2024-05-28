@@ -1,8 +1,8 @@
-package com.surendramaran.yolov8tflite
+package com.warzone.yolov8tflite
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.surendramaran.yolov8tflite.databinding.ActivityDetailBinding
+import com.warzone.yolov8tflite.databinding.ActivityDetailBinding
 
 class DetailActivity : AppCompatActivity() {
 
