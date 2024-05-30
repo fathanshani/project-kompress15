@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">YOLOv8 TfLite</string>
+    <string name="jeruk_segar">Jeruk Segar</string>
+    <string name="scan">Scan</string>
+    <string name="read_more">Read More!</string>
+    <string name="jeruk">Jeruk</string>
+    <string name="segar">Jeruk segar memiliki kulit berwarna cerah dan merata,\n
+        seperti oranye terang, hijau terang (untuk jeruk nipis), atau kuning, tergantung jenisnya.\n
+        Warnanya tidak bercak-bercak dan tampak segar. Kulit jeruk segar terasa halus dan elastis saat ditekan,\n
+        tidak kering atau keriput. Aroma harum yang kuat dan menyegarkan adalah tanda lain dari jeruk yang masih segar.\n
+        Jeruk segar juga terasa berat untuk ukurannya, menandakan kandungan air yang tinggi.\n
+        Selain itu, kulit jeruk segar bebas dari bercak, luka, atau kerusakan lainnya, serta tidak menunjukkan tanda-tanda pembusukan atau jamur.\n
+        Bagian dalam jeruk segar terasa kenyal dan juicy saat digigit.
+    </string>
+    <string name="busuk">Jeruk busuk memiliki kulit yang berubah warna menjadi coklat atau hitam, dengan bercak-bercak yang menyebar di permukaannya.\n 
+        Kulitnya terasa lembek dan mungkin sedikit keriput. Jika ditekan, kulit mungkin meninggalkan jejak atau bahkan sobek.\n
+        Aroma tidak sedap yang asam atau busuk adalah tanda jelas dari jeruk yang sudah busuk. Jeruk busuk terasa lebih ringan karena kehilangan kandungan air.\n
+        Selain itu, kulit jeruk busuk mungkin memiliki jamur atau lumut berwarna putih, hijau, atau hitam.\n 
+        Bagian dalam jeruk busuk terasa lembek dan kering, tidak juicy, dan mungkin sudah mulai membusuk.
+    </string>
+    <string name="jeruk_busuk">Jeruk Busuk</string>
+
 </resources>
